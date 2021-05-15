@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-getgithubinfo/static/css/main.70a7e7a0.chunk.css",
+    "main.js": "/react-getgithubinfo/static/js/main.afd70f99.chunk.js",
+    "main.js.map": "/react-getgithubinfo/static/js/main.afd70f99.chunk.js.map",
+    "runtime-main.js": "/react-getgithubinfo/static/js/runtime-main.475ab0a5.js",
+    "runtime-main.js.map": "/react-getgithubinfo/static/js/runtime-main.475ab0a5.js.map",
+    "static/js/2.b0e0705c.chunk.js": "/react-getgithubinfo/static/js/2.b0e0705c.chunk.js",
+    "static/js/2.b0e0705c.chunk.js.map": "/react-getgithubinfo/static/js/2.b0e0705c.chunk.js.map",
+    "index.html": "/react-getgithubinfo/index.html",
+    "static/css/main.70a7e7a0.chunk.css.map": "/react-getgithubinfo/static/css/main.70a7e7a0.chunk.css.map",
+    "static/js/2.b0e0705c.chunk.js.LICENSE.txt": "/react-getgithubinfo/static/js/2.b0e0705c.chunk.js.LICENSE.txt",
+    "static/media/octocat.82c54c84.svg": "/react-getgithubinfo/static/media/octocat.82c54c84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.475ab0a5.js",
+    "static/js/2.b0e0705c.chunk.js",
+    "static/css/main.70a7e7a0.chunk.css",
+    "static/js/main.afd70f99.chunk.js"
+  ]
+}
